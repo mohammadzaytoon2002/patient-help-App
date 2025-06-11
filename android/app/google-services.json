@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "807510988374",
+    "project_id": "moro-app-2677a",
+    "storage_bucket": "moro-app-2677a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807510988374:android:d42db97f9fe1433b510df7",
+        "android_client_info": {
+          "package_name": "at.moro.md"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGhdoeMwQNdxJBTa4kGwBfZIFdzq_uwNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807510988374:android:66565cb90a294186510df7",
+        "android_client_info": {
+          "package_name": "com.example.mmm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGhdoeMwQNdxJBTa4kGwBfZIFdzq_uwNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807510988374:android:8c117d553a2c2b75510df7",
+        "android_client_info": {
+          "package_name": "com.example.watch3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGhdoeMwQNdxJBTa4kGwBfZIFdzq_uwNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
